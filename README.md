@@ -9,9 +9,7 @@ own folder.
 ```
 SurgicalPPE-Audit/
 ├── model/              ← Put your trained best.pt here
-│   └── README.md
-├── datasets/            ← (Optional) training/validation data
-│   └── README.md
+│   └── best.pt
 ├── backend/              ← FastAPI inference server
 │   ├── app.py
 │   └── requirements.txt
